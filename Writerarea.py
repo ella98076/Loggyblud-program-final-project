@@ -1,9 +1,6 @@
-# expandable text box 
-# save the work
-# able to change the font and etc.
-# able to name title 
-# use labelEntry for this since its like a entry box or like a notepad. 
-# label 1 
+"""_summary_
+    used as a writing space so just click the text box and begin to write, it will not save your writing. 
+    """
 
 import tkinter as tk
 from tkinter import ttk
