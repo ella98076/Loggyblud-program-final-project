@@ -1,7 +1,6 @@
-#buttons  that takes you places 
-#label 3
-#note pad button works
-
+"""
+    this program is a selection of what sides there is, this is for easy access of the different windows. 
+    """
 import tkinter as tk
 import subprocess
 
