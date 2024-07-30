@@ -1,4 +1,8 @@
 
+"""
+this program is to give the user a place to log in. This is used as a start screen for a website or a application. 
+If you use numbers in your username it will decline you and you will see a pop-up window stating that you can't use numbers in your username.
+"""
 import tkinter as tk
 import subprocess
 
