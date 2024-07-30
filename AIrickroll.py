@@ -1,5 +1,7 @@
 
-#2
+"""_summary_
+    used as a joke, since it has to be fun. But after your done just click the x button at the top of the window. 
+    """
 
 import tkinter as tk
 from tkinter import ttk
